@@ -51,12 +51,6 @@
       ],
       "id": "70351228-a6a2-4fc3-96c8-cb8f52ac1cb8",
       "name": "Google Gemini Chat Model",
-      "credentials": {
-        "googlePalmApi": {
-          "id": "7pqbPUxaddw8aTAg",
-          "name": "Google Gemini(PaLM) Api account 9457"
-        }
-      }
     }
   ],
   "pinData": {},
@@ -101,10 +95,6 @@
     "binaryMode": "separate"
   },
   "versionId": "e481c08a-9111-4e9d-a071-473afd79c88c",
-  "meta": {
-    "templateCredsSetupCompleted": true,
-    "instanceId": "969257b09ad2942bbaff2e2288304f4969030574d109cdeca05bf11f630884df"
-  },
   "id": "jk2rrulm0Ibt0csx",
   "tags": []
 }
